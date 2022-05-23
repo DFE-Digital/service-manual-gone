@@ -15,7 +15,7 @@ In the meantime, you can find information in the following places:
 - [DfE Architecture](https://dfe-digital.github.io/architecture/common-components/#common-components)
 - [User Research Slack](https://ukgovernmentdfe.slack.com/archives/C53D6R7SP)
 
-Additionally, you can find information about service assessments on the [Intranet](https://educationgovuk.sharepoint.com/sites/dfe-home
+Additionally, you can find information about service assessments on the [Intranet](https://educationgovuk.sharepoint.com/sites/dfe-home)
 
 ## If you want to get involved
 
