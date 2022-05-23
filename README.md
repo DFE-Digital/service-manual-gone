@@ -15,11 +15,10 @@ In the meantime, you can find information in the following places:
 - [DfE Architecture](https://dfe-digital.github.io/architecture/common-components/#common-components)
 - [User Research Slack](https://ukgovernmentdfe.slack.com/archives/C53D6R7SP)
 
-Additionally, you can find information about service assessments on the [Intranet](https://educationgovuk.sharepoint.com/sites/dfe-home)
+Additionally, you can find information about service assessments on the [DfE Intranet]([https://educationgovuk.sharepoint.com/sites/dfe-home](https://educationgovuk.sharepoint.com/sites/ciog/Service%20Assessment%20Plus/Home.aspx))
 
 ## If you want to get involved
 
 [Complete this form]() to help us build the thing right. 
 
-As we start to research and design a way to help teams understand how to apply the Service Standard, and what good looks like across DfE, we need to test our content. Get involved with user research and creating standards content for the content and design communities.
-
+As we start to research and design a way to help teams understand how to apply the Service Standard, and what good looks like in DfE, we need to test the content. You can get involved with user research and creating standards content for the content and design communities.
