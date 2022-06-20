@@ -8,7 +8,7 @@ This includes:
 - improved guidance for service assessments
 - an improved service assessment process 
 
-Although the DfE service manual is no longer available, you can [search the archived content (Google Doc)]([Service Manual Content - Google Docs](https://docs.google.com/document/d/1WzBVMhV9I5sf6Sz1-sVUVhkAxJ7NQfLfKj5AAVNzQ7A/edit#heading=h.jhr7311y2ec6))).
+Although the DfE service manual is no longer available, you can [search the archived content (Google Doc)](https://docs.google.com/document/d/1WzBVMhV9I5sf6Sz1-sVUVhkAxJ7NQfLfKj5AAVNzQ7A/edit#heading=h.jhr7311y2ec6).
 
 You can also find information in the following places: 
 
