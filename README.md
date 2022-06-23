@@ -23,7 +23,7 @@ You can find information about service assessments on the [Intranet](https://edu
 
 ## Get involved in applying standards in DfE 
 
-[Complete this form]() to help us build the thing right. 
+The Standards and Assurance team are working with communities and professions to implement new content around standards, as well as guidance for assessments and accessibility. 
 
-As we start to research and design a way to help teams understand how to apply the Service Standard, and what good looks like in DfE, we need to test the content. You can get involved with user research and creating standards content for the content and design communities.
+If you want to get involved, get in touch with us using the [#standards-and-assurance-contribute](https://ukgovernmentdfe.slack.com/archives/C03LP9VRQSJ) slack channel.
 
